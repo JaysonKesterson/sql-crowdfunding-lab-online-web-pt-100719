@@ -13,4 +13,8 @@ end_date TEXT
  age INTEGER
  );
  
+ CREATE TABLE pledges (
+ id INTEGER PRIMARY KEY,
  
+ 
+ )
