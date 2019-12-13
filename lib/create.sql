@@ -17,4 +17,4 @@ end_date TEXT
  id INTEGER PRIMARY KEY,
  
  
- )
+ );
