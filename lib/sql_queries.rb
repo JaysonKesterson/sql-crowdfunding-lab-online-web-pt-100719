@@ -18,7 +18,7 @@ def selects_the_user_name_age_and_pledge_amount_for_all_pledges_alphabetized_by_
   "SELECT users.name,users.age
    FROM users
    JOIN pledges
-   ON user
+   ON users.id = pledges.user_id
    "
 end
 
