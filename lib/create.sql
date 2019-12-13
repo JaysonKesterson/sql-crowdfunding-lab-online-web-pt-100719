@@ -11,4 +11,6 @@ end_date TEXT
  id INTEGER PRIMARY KEY,
  name TEXT,
  age INTEGER
- )
+ );
+ 
+ 
